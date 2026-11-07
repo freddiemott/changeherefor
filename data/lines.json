@@ -1,0 +1,121 @@
+{
+ "version": 1,
+ "updated": "2026-11-07",
+ "scope": "Zones 1 and 2, including stations on the 2/3 boundary",
+ "lines": [
+  {
+   "id": "bakerloo",
+   "name": "Bakerloo",
+   "colour": "#B26300",
+   "type": "underground"
+  },
+  {
+   "id": "central",
+   "name": "Central",
+   "colour": "#DC241F",
+   "type": "underground"
+  },
+  {
+   "id": "circle",
+   "name": "Circle",
+   "colour": "#FFD329",
+   "type": "underground"
+  },
+  {
+   "id": "district",
+   "name": "District",
+   "colour": "#007D32",
+   "type": "underground"
+  },
+  {
+   "id": "hammersmith-city",
+   "name": "Hammersmith & City",
+   "colour": "#F4A9BE",
+   "type": "underground"
+  },
+  {
+   "id": "jubilee",
+   "name": "Jubilee",
+   "colour": "#A0A5A9",
+   "type": "underground"
+  },
+  {
+   "id": "metropolitan",
+   "name": "Metropolitan",
+   "colour": "#9B0056",
+   "type": "underground"
+  },
+  {
+   "id": "northern",
+   "name": "Northern",
+   "colour": "#000000",
+   "type": "underground"
+  },
+  {
+   "id": "piccadilly",
+   "name": "Piccadilly",
+   "colour": "#0019A8",
+   "type": "underground"
+  },
+  {
+   "id": "victoria",
+   "name": "Victoria",
+   "colour": "#039BE5",
+   "type": "underground"
+  },
+  {
+   "id": "waterloo-city",
+   "name": "Waterloo & City",
+   "colour": "#76D0BD",
+   "type": "underground"
+  },
+  {
+   "id": "elizabeth",
+   "name": "Elizabeth line",
+   "colour": "#6950A1",
+   "type": "rail"
+  },
+  {
+   "id": "dlr",
+   "name": "DLR",
+   "colour": "#00AFAD",
+   "type": "rail"
+  },
+  {
+   "id": "liberty",
+   "name": "Liberty line",
+   "colour": "#61686B",
+   "type": "overground"
+  },
+  {
+   "id": "lioness",
+   "name": "Lioness line",
+   "colour": "#FAA61A",
+   "type": "overground"
+  },
+  {
+   "id": "mildmay",
+   "name": "Mildmay line",
+   "colour": "#437EC1",
+   "type": "overground"
+  },
+  {
+   "id": "suffragette",
+   "name": "Suffragette line",
+   "colour": "#39B97A",
+   "type": "overground"
+  },
+  {
+   "id": "weaver",
+   "name": "Weaver line",
+   "colour": "#972861",
+   "type": "overground"
+  },
+  {
+   "id": "windrush",
+   "name": "Windrush line",
+   "colour": "#EF4D3E",
+   "type": "overground"
+  }
+ ]
+}

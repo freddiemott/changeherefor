@@ -1,0 +1,1820 @@
+{
+ "version": 1,
+ "updated": "2026-11-07",
+ "stations": [
+  {
+   "id": "abbey-road",
+   "name": "Abbey Road",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "aldgate",
+   "name": "Aldgate",
+   "lines": [
+    "circle",
+    "metropolitan"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "aldgate-east",
+   "name": "Aldgate East",
+   "lines": [
+    "district",
+    "hammersmith-city"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "all-saints",
+   "name": "All Saints",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "angel",
+   "name": "Angel",
+   "lines": [
+    "northern"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "archway",
+   "name": "Archway",
+   "lines": [
+    "northern"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "arsenal",
+   "name": "Arsenal",
+   "lines": [
+    "piccadilly"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "baker-street",
+   "name": "Baker Street",
+   "lines": [
+    "bakerloo",
+    "circle",
+    "hammersmith-city",
+    "jubilee",
+    "metropolitan"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "bank",
+   "name": "Bank",
+   "lines": [
+    "central",
+    "northern",
+    "waterloo-city",
+    "dlr"
+   ],
+   "zone": "1",
+   "linked": [
+    "monument"
+   ]
+  },
+  {
+   "id": "barbican",
+   "name": "Barbican",
+   "lines": [
+    "circle",
+    "hammersmith-city",
+    "metropolitan"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "barons-court",
+   "name": "Barons Court",
+   "lines": [
+    "district",
+    "piccadilly"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "battersea-power-station",
+   "name": "Battersea Power Station",
+   "lines": [
+    "northern"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "bayswater",
+   "name": "Bayswater",
+   "lines": [
+    "circle",
+    "district"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "belsize-park",
+   "name": "Belsize Park",
+   "lines": [
+    "northern"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "bermondsey",
+   "name": "Bermondsey",
+   "lines": [
+    "jubilee"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "bethnal-green-central",
+   "name": "Bethnal Green",
+   "qualifier": "Central",
+   "lines": [
+    "central"
+   ],
+   "zone": "2",
+   "linked": [
+    "bethnal-green-weaver"
+   ]
+  },
+  {
+   "id": "bethnal-green-weaver",
+   "name": "Bethnal Green",
+   "qualifier": "Weaver",
+   "lines": [
+    "weaver"
+   ],
+   "zone": "2",
+   "linked": [
+    "bethnal-green-central"
+   ]
+  },
+  {
+   "id": "blackfriars",
+   "name": "Blackfriars",
+   "lines": [
+    "circle",
+    "district"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "blackwall",
+   "name": "Blackwall",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "bond-street",
+   "name": "Bond Street",
+   "lines": [
+    "central",
+    "jubilee",
+    "elizabeth"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "borough",
+   "name": "Borough",
+   "lines": [
+    "northern"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "bow-church",
+   "name": "Bow Church",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "bow-road",
+   "name": "Bow Road",
+   "lines": [
+    "district",
+    "hammersmith-city"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "brixton",
+   "name": "Brixton",
+   "lines": [
+    "victoria"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "brockley",
+   "name": "Brockley",
+   "lines": [
+    "windrush"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "bromley-by-bow",
+   "name": "Bromley-by-Bow",
+   "lines": [
+    "district",
+    "hammersmith-city"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "brondesbury",
+   "name": "Brondesbury",
+   "lines": [
+    "mildmay"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "brondesbury-park",
+   "name": "Brondesbury Park",
+   "lines": [
+    "mildmay"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "caledonian-road",
+   "name": "Caledonian Road",
+   "lines": [
+    "piccadilly"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "caledonian-road-and-barnsbury",
+   "name": "Caledonian Road & Barnsbury",
+   "lines": [
+    "mildmay"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "cambridge-heath",
+   "name": "Cambridge Heath",
+   "lines": [
+    "weaver"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "camden-road",
+   "name": "Camden Road",
+   "lines": [
+    "mildmay"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "camden-town",
+   "name": "Camden Town",
+   "lines": [
+    "northern"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "canada-water",
+   "name": "Canada Water",
+   "lines": [
+    "jubilee",
+    "windrush"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "canary-wharf",
+   "name": "Canary Wharf",
+   "lines": [
+    "jubilee",
+    "elizabeth",
+    "dlr"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "canning-town",
+   "name": "Canning Town",
+   "lines": [
+    "jubilee",
+    "dlr"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "cannon-street",
+   "name": "Cannon Street",
+   "lines": [
+    "circle",
+    "district"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "canonbury",
+   "name": "Canonbury",
+   "lines": [
+    "mildmay",
+    "windrush"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "chalk-farm",
+   "name": "Chalk Farm",
+   "lines": [
+    "northern"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "chancery-lane",
+   "name": "Chancery Lane",
+   "lines": [
+    "central"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "charing-cross",
+   "name": "Charing Cross",
+   "lines": [
+    "bakerloo",
+    "northern"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "clapham-common",
+   "name": "Clapham Common",
+   "lines": [
+    "northern"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "clapham-high-street",
+   "name": "Clapham High Street",
+   "lines": [
+    "windrush"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "clapham-junction",
+   "name": "Clapham Junction",
+   "lines": [
+    "mildmay",
+    "windrush"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "clapham-north",
+   "name": "Clapham North",
+   "lines": [
+    "northern"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "clapham-south",
+   "name": "Clapham South",
+   "lines": [
+    "northern"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "clapton",
+   "name": "Clapton",
+   "lines": [
+    "weaver"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "covent-garden",
+   "name": "Covent Garden",
+   "lines": [
+    "piccadilly"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "crossharbour",
+   "name": "Crossharbour",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "cutty-sark-for-maritime-greenwich",
+   "name": "Cutty Sark for Maritime Greenwich",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2/3",
+   "aliases": [
+    "Cutty Sark"
+   ]
+  },
+  {
+   "id": "dalston-junction",
+   "name": "Dalston Junction",
+   "lines": [
+    "windrush"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "dalston-kingsland",
+   "name": "Dalston Kingsland",
+   "lines": [
+    "mildmay"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "denmark-hill",
+   "name": "Denmark Hill",
+   "lines": [
+    "windrush"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "deptford-bridge",
+   "name": "Deptford Bridge",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "devons-road",
+   "name": "Devons Road",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "earls-court",
+   "name": "Earl's Court",
+   "lines": [
+    "district",
+    "piccadilly"
+   ],
+   "zone": "1/2"
+  },
+  {
+   "id": "east-acton",
+   "name": "East Acton",
+   "lines": [
+    "central"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "east-india",
+   "name": "East India",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "east-putney",
+   "name": "East Putney",
+   "lines": [
+    "district"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "edgware-road-bakerloo",
+   "name": "Edgware Road",
+   "qualifier": "Bakerloo",
+   "lines": [
+    "bakerloo"
+   ],
+   "zone": "1",
+   "linked": [
+    "edgware-road-circle-district-hc"
+   ]
+  },
+  {
+   "id": "edgware-road-circle-district-hc",
+   "name": "Edgware Road",
+   "qualifier": "Circle, District, H&C",
+   "lines": [
+    "circle",
+    "district",
+    "hammersmith-city"
+   ],
+   "zone": "1",
+   "linked": [
+    "edgware-road-bakerloo"
+   ]
+  },
+  {
+   "id": "elephant-and-castle",
+   "name": "Elephant & Castle",
+   "lines": [
+    "bakerloo",
+    "northern"
+   ],
+   "zone": "1/2",
+   "aliases": [
+    "Elephant"
+   ]
+  },
+  {
+   "id": "elverson-road",
+   "name": "Elverson Road",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "embankment",
+   "name": "Embankment",
+   "lines": [
+    "bakerloo",
+    "circle",
+    "district",
+    "northern"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "euston",
+   "name": "Euston",
+   "lines": [
+    "northern",
+    "victoria",
+    "lioness"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "euston-square",
+   "name": "Euston Square",
+   "lines": [
+    "circle",
+    "hammersmith-city",
+    "metropolitan"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "farringdon",
+   "name": "Farringdon",
+   "lines": [
+    "circle",
+    "hammersmith-city",
+    "metropolitan",
+    "elizabeth"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "finchley-road",
+   "name": "Finchley Road",
+   "lines": [
+    "jubilee",
+    "metropolitan"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "finchley-road-and-frognal",
+   "name": "Finchley Road & Frognal",
+   "lines": [
+    "mildmay"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "finsbury-park",
+   "name": "Finsbury Park",
+   "lines": [
+    "piccadilly",
+    "victoria"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "fulham-broadway",
+   "name": "Fulham Broadway",
+   "lines": [
+    "district"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "gloucester-road",
+   "name": "Gloucester Road",
+   "lines": [
+    "circle",
+    "district",
+    "piccadilly"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "goldhawk-road",
+   "name": "Goldhawk Road",
+   "lines": [
+    "circle",
+    "hammersmith-city"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "goodge-street",
+   "name": "Goodge Street",
+   "lines": [
+    "northern"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "gospel-oak",
+   "name": "Gospel Oak",
+   "lines": [
+    "mildmay",
+    "suffragette"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "great-portland-street",
+   "name": "Great Portland Street",
+   "lines": [
+    "circle",
+    "hammersmith-city",
+    "metropolitan"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "green-park",
+   "name": "Green Park",
+   "lines": [
+    "jubilee",
+    "piccadilly",
+    "victoria"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "greenwich",
+   "name": "Greenwich",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "hackney-central",
+   "name": "Hackney Central",
+   "lines": [
+    "mildmay"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "hackney-downs",
+   "name": "Hackney Downs",
+   "lines": [
+    "weaver"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "hackney-wick",
+   "name": "Hackney Wick",
+   "lines": [
+    "mildmay"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "haggerston",
+   "name": "Haggerston",
+   "lines": [
+    "windrush"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "hammersmith-circle-hc",
+   "name": "Hammersmith",
+   "qualifier": "Circle, H&C",
+   "lines": [
+    "circle",
+    "hammersmith-city"
+   ],
+   "zone": "2",
+   "linked": [
+    "hammersmith-district-piccadilly"
+   ]
+  },
+  {
+   "id": "hammersmith-district-piccadilly",
+   "name": "Hammersmith",
+   "qualifier": "District, Piccadilly",
+   "lines": [
+    "district",
+    "piccadilly"
+   ],
+   "zone": "2",
+   "linked": [
+    "hammersmith-circle-hc"
+   ]
+  },
+  {
+   "id": "hampstead",
+   "name": "Hampstead",
+   "lines": [
+    "northern"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "hampstead-heath",
+   "name": "Hampstead Heath",
+   "lines": [
+    "mildmay"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "heron-quays",
+   "name": "Heron Quays",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "high-street-kensington",
+   "name": "High Street Kensington",
+   "lines": [
+    "circle",
+    "district"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "highbury-and-islington",
+   "name": "Highbury & Islington",
+   "lines": [
+    "victoria",
+    "mildmay",
+    "windrush"
+   ],
+   "zone": "2",
+   "aliases": [
+    "Highbury"
+   ]
+  },
+  {
+   "id": "holborn",
+   "name": "Holborn",
+   "lines": [
+    "central",
+    "piccadilly"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "holland-park",
+   "name": "Holland Park",
+   "lines": [
+    "central"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "holloway-road",
+   "name": "Holloway Road",
+   "lines": [
+    "piccadilly"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "homerton",
+   "name": "Homerton",
+   "lines": [
+    "mildmay"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "hoxton",
+   "name": "Hoxton",
+   "lines": [
+    "windrush"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "hyde-park-corner",
+   "name": "Hyde Park Corner",
+   "lines": [
+    "piccadilly"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "imperial-wharf",
+   "name": "Imperial Wharf",
+   "lines": [
+    "mildmay"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "island-gardens",
+   "name": "Island Gardens",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "kennington",
+   "name": "Kennington",
+   "lines": [
+    "northern"
+   ],
+   "zone": "1/2"
+  },
+  {
+   "id": "kensal-green",
+   "name": "Kensal Green",
+   "lines": [
+    "bakerloo",
+    "lioness"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "kensal-rise",
+   "name": "Kensal Rise",
+   "lines": [
+    "mildmay"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "kensington-olympia",
+   "name": "Kensington (Olympia)",
+   "lines": [
+    "district",
+    "mildmay"
+   ],
+   "zone": "2",
+   "aliases": [
+    "Kensington Olympia",
+    "Olympia"
+   ]
+  },
+  {
+   "id": "kentish-town",
+   "name": "Kentish Town",
+   "lines": [
+    "northern"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "kentish-town-west",
+   "name": "Kentish Town West",
+   "lines": [
+    "mildmay"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "kilburn",
+   "name": "Kilburn",
+   "lines": [
+    "jubilee"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "kilburn-high-road",
+   "name": "Kilburn High Road",
+   "lines": [
+    "lioness"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "kilburn-park",
+   "name": "Kilburn Park",
+   "lines": [
+    "bakerloo"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "kings-cross-st-pancras",
+   "name": "King's Cross St Pancras",
+   "lines": [
+    "circle",
+    "hammersmith-city",
+    "metropolitan",
+    "northern",
+    "piccadilly",
+    "victoria"
+   ],
+   "zone": "1",
+   "aliases": [
+    "Kings Cross",
+    "King's Cross",
+    "St Pancras"
+   ]
+  },
+  {
+   "id": "knightsbridge",
+   "name": "Knightsbridge",
+   "lines": [
+    "piccadilly"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "ladbroke-grove",
+   "name": "Ladbroke Grove",
+   "lines": [
+    "circle",
+    "hammersmith-city"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "lambeth-north",
+   "name": "Lambeth North",
+   "lines": [
+    "bakerloo"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "lancaster-gate",
+   "name": "Lancaster Gate",
+   "lines": [
+    "central"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "langdon-park",
+   "name": "Langdon Park",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "latimer-road",
+   "name": "Latimer Road",
+   "lines": [
+    "circle",
+    "hammersmith-city"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "leicester-square",
+   "name": "Leicester Square",
+   "lines": [
+    "northern",
+    "piccadilly"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "lewisham",
+   "name": "Lewisham",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "limehouse",
+   "name": "Limehouse",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "liverpool-street",
+   "name": "Liverpool Street",
+   "lines": [
+    "central",
+    "circle",
+    "hammersmith-city",
+    "metropolitan",
+    "elizabeth",
+    "weaver"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "london-bridge",
+   "name": "London Bridge",
+   "lines": [
+    "jubilee",
+    "northern"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "london-fields",
+   "name": "London Fields",
+   "lines": [
+    "weaver"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "maida-vale",
+   "name": "Maida Vale",
+   "lines": [
+    "bakerloo"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "manor-house",
+   "name": "Manor House",
+   "lines": [
+    "piccadilly"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "mansion-house",
+   "name": "Mansion House",
+   "lines": [
+    "circle",
+    "district"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "marble-arch",
+   "name": "Marble Arch",
+   "lines": [
+    "central"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "marylebone",
+   "name": "Marylebone",
+   "lines": [
+    "bakerloo"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "mile-end",
+   "name": "Mile End",
+   "lines": [
+    "central",
+    "district",
+    "hammersmith-city"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "monument",
+   "name": "Monument",
+   "lines": [
+    "circle",
+    "district"
+   ],
+   "zone": "1",
+   "linked": [
+    "bank"
+   ]
+  },
+  {
+   "id": "moorgate",
+   "name": "Moorgate",
+   "lines": [
+    "circle",
+    "hammersmith-city",
+    "metropolitan",
+    "northern"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "mornington-crescent",
+   "name": "Mornington Crescent",
+   "lines": [
+    "northern"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "mudchute",
+   "name": "Mudchute",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "new-cross",
+   "name": "New Cross",
+   "lines": [
+    "windrush"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "new-cross-gate",
+   "name": "New Cross Gate",
+   "lines": [
+    "windrush"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "nine-elms",
+   "name": "Nine Elms",
+   "lines": [
+    "northern"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "north-acton",
+   "name": "North Acton",
+   "lines": [
+    "central"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "north-greenwich",
+   "name": "North Greenwich",
+   "lines": [
+    "jubilee"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "notting-hill-gate",
+   "name": "Notting Hill Gate",
+   "lines": [
+    "central",
+    "circle",
+    "district"
+   ],
+   "zone": "1/2"
+  },
+  {
+   "id": "old-street",
+   "name": "Old Street",
+   "lines": [
+    "northern"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "oval",
+   "name": "Oval",
+   "lines": [
+    "northern"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "oxford-circus",
+   "name": "Oxford Circus",
+   "lines": [
+    "bakerloo",
+    "central",
+    "victoria"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "paddington",
+   "name": "Paddington",
+   "lines": [
+    "bakerloo",
+    "circle",
+    "district",
+    "hammersmith-city",
+    "elizabeth"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "parsons-green",
+   "name": "Parsons Green",
+   "lines": [
+    "district"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "peckham-rye",
+   "name": "Peckham Rye",
+   "lines": [
+    "windrush"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "piccadilly-circus",
+   "name": "Piccadilly Circus",
+   "lines": [
+    "bakerloo",
+    "piccadilly"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "pimlico",
+   "name": "Pimlico",
+   "lines": [
+    "victoria"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "poplar",
+   "name": "Poplar",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "pudding-mill-lane",
+   "name": "Pudding Mill Lane",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "putney-bridge",
+   "name": "Putney Bridge",
+   "lines": [
+    "district"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "queens-park",
+   "name": "Queen's Park",
+   "lines": [
+    "bakerloo",
+    "lioness"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "queens-road-peckham",
+   "name": "Queens Road Peckham",
+   "lines": [
+    "windrush"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "queensway",
+   "name": "Queensway",
+   "lines": [
+    "central"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "ravenscourt-park",
+   "name": "Ravenscourt Park",
+   "lines": [
+    "district"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "rectory-road",
+   "name": "Rectory Road",
+   "lines": [
+    "weaver"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "regents-park",
+   "name": "Regent's Park",
+   "lines": [
+    "bakerloo"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "rotherhithe",
+   "name": "Rotherhithe",
+   "lines": [
+    "windrush"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "royal-oak",
+   "name": "Royal Oak",
+   "lines": [
+    "circle",
+    "hammersmith-city"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "russell-square",
+   "name": "Russell Square",
+   "lines": [
+    "piccadilly"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "shadwell",
+   "name": "Shadwell",
+   "lines": [
+    "dlr",
+    "windrush"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "shepherds-bush",
+   "name": "Shepherd's Bush",
+   "lines": [
+    "central",
+    "mildmay"
+   ],
+   "zone": "2",
+   "linked": [
+    "shepherds-bush-market"
+   ]
+  },
+  {
+   "id": "shepherds-bush-market",
+   "name": "Shepherd's Bush Market",
+   "lines": [
+    "circle",
+    "hammersmith-city"
+   ],
+   "zone": "2",
+   "linked": [
+    "shepherds-bush"
+   ]
+  },
+  {
+   "id": "shoreditch-high-street",
+   "name": "Shoreditch High Street",
+   "lines": [
+    "windrush"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "sloane-square",
+   "name": "Sloane Square",
+   "lines": [
+    "circle",
+    "district"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "south-hampstead",
+   "name": "South Hampstead",
+   "lines": [
+    "lioness"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "south-kensington",
+   "name": "South Kensington",
+   "lines": [
+    "circle",
+    "district",
+    "piccadilly"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "south-quay",
+   "name": "South Quay",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "southwark",
+   "name": "Southwark",
+   "lines": [
+    "jubilee"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "st-jamess-park",
+   "name": "St James's Park",
+   "lines": [
+    "circle",
+    "district"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "st-johns-wood",
+   "name": "St John's Wood",
+   "lines": [
+    "jubilee"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "st-pauls",
+   "name": "St Paul's",
+   "lines": [
+    "central"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "stamford-brook",
+   "name": "Stamford Brook",
+   "lines": [
+    "district"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "star-lane",
+   "name": "Star Lane",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "stepney-green",
+   "name": "Stepney Green",
+   "lines": [
+    "district",
+    "hammersmith-city"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "stockwell",
+   "name": "Stockwell",
+   "lines": [
+    "northern",
+    "victoria"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "stoke-newington",
+   "name": "Stoke Newington",
+   "lines": [
+    "weaver"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "stratford",
+   "name": "Stratford",
+   "lines": [
+    "central",
+    "jubilee",
+    "elizabeth",
+    "dlr",
+    "mildmay"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "stratford-high-street",
+   "name": "Stratford High Street",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "stratford-international",
+   "name": "Stratford International",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "surrey-quays",
+   "name": "Surrey Quays",
+   "lines": [
+    "windrush"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "swiss-cottage",
+   "name": "Swiss Cottage",
+   "lines": [
+    "jubilee"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "temple",
+   "name": "Temple",
+   "lines": [
+    "circle",
+    "district"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "tottenham-court-road",
+   "name": "Tottenham Court Road",
+   "lines": [
+    "central",
+    "northern",
+    "elizabeth"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "tower-gateway",
+   "name": "Tower Gateway",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "tower-hill",
+   "name": "Tower Hill",
+   "lines": [
+    "circle",
+    "district"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "tufnell-park",
+   "name": "Tufnell Park",
+   "lines": [
+    "northern"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "turnham-green",
+   "name": "Turnham Green",
+   "lines": [
+    "district",
+    "piccadilly"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "upper-holloway",
+   "name": "Upper Holloway",
+   "lines": [
+    "suffragette"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "vauxhall",
+   "name": "Vauxhall",
+   "lines": [
+    "victoria"
+   ],
+   "zone": "1/2"
+  },
+  {
+   "id": "victoria",
+   "name": "Victoria",
+   "lines": [
+    "circle",
+    "district",
+    "victoria"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "wandsworth-road",
+   "name": "Wandsworth Road",
+   "lines": [
+    "windrush"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "wapping",
+   "name": "Wapping",
+   "lines": [
+    "windrush"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "warren-street",
+   "name": "Warren Street",
+   "lines": [
+    "northern",
+    "victoria"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "warwick-avenue",
+   "name": "Warwick Avenue",
+   "lines": [
+    "bakerloo"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "waterloo",
+   "name": "Waterloo",
+   "lines": [
+    "bakerloo",
+    "jubilee",
+    "northern",
+    "waterloo-city"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "west-brompton",
+   "name": "West Brompton",
+   "lines": [
+    "district",
+    "mildmay"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "west-ham",
+   "name": "West Ham",
+   "lines": [
+    "district",
+    "hammersmith-city",
+    "jubilee",
+    "dlr"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "west-hampstead",
+   "name": "West Hampstead",
+   "lines": [
+    "jubilee",
+    "mildmay"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "west-india-quay",
+   "name": "West India Quay",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "west-kensington",
+   "name": "West Kensington",
+   "lines": [
+    "district"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "westbourne-park",
+   "name": "Westbourne Park",
+   "lines": [
+    "circle",
+    "hammersmith-city"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "westferry",
+   "name": "Westferry",
+   "lines": [
+    "dlr"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "westminster",
+   "name": "Westminster",
+   "lines": [
+    "circle",
+    "district",
+    "jubilee"
+   ],
+   "zone": "1"
+  },
+  {
+   "id": "white-city",
+   "name": "White City",
+   "lines": [
+    "central"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "whitechapel",
+   "name": "Whitechapel",
+   "lines": [
+    "district",
+    "hammersmith-city",
+    "elizabeth",
+    "windrush"
+   ],
+   "zone": "2"
+  },
+  {
+   "id": "willesden-green",
+   "name": "Willesden Green",
+   "lines": [
+    "jubilee"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "willesden-junction",
+   "name": "Willesden Junction",
+   "lines": [
+    "bakerloo",
+    "lioness",
+    "mildmay"
+   ],
+   "zone": "2/3"
+  },
+  {
+   "id": "wood-lane",
+   "name": "Wood Lane",
+   "lines": [
+    "circle",
+    "hammersmith-city"
+   ],
+   "zone": "2"
+  }
+ ]
+}
